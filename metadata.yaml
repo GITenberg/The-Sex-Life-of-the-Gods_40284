@@ -1,0 +1,30 @@
+_repo: The-Sex-Life-of-the-Gods_40284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knerr, M. E. (Michael E.)
+    aliases:
+    - Knerr, Mike
+    - Knerr, Michael E.
+    birthdate: 1936
+    deathdate: 1999
+    gutenberg_agent_id: '40523'
+    url: http://www.gutenberg.org/2009/agents/40523
+description: ''
+gutenberg_issued: '2012-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+title: The Sex Life of the Gods
+url: http://www.gutenberg.org/ebooks/40284
